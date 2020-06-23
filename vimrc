@@ -1,0 +1,12 @@
+syntax on
+set relativenumber
+set number
+set cursorline
+set wrap
+set showcmd
+set hlsearch
+set incsearch
+set wildmenu
+set fileencodings=utf-8,ucs-bom,gb18030,gbk2312,cp936,gbk
+set termencoding=utf-8
+set encoding=utf-8
