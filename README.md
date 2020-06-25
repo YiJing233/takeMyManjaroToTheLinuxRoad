@@ -1,4 +1,7 @@
 # takeMyManjaroToTheLinuxRoad
 用来记录自己学习linux和os的代码存放库
 
-## vim配置文件
+vim配置文件
+zsh配置文件
+alacritty配置文件
+ranger配置文件
